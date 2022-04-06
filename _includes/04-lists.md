@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Book
+  * The Little Prince
+  * The Four Agreements
+* Food
+  * Fish
+  * Chicken
